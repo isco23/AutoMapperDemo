@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1", "Demo1\Demo1.csproj", "{F7BFF9F9-DF3B-4770-947C-2EC0E46A6C46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexMapperDemo", "ComplexMapperDemo\ComplexMapperDemo.csproj", "{07451006-06E4-4796-88CE-2E132306A64A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexToPrimitiveDemo", "ComplexToPrimitiveDemo\ComplexToPrimitiveDemo.csproj", "{6628B8E8-3A19-41A6-9ADD-1DE0FA2A557C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseMappingDemo", "ReverseMapping\ReverseMappingDemo.csproj", "{56B5A46A-3414-49C2-8637-BB753BD0279C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalMappingDemo", "ConditionalMappingDemo\ConditionalMappingDemo.csproj", "{381E5E0C-F0C5-4305-A28D-BDD30EAFBBC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgnorePropertyDemo", "IgnorePropertyDemo\IgnorePropertyDemo.csproj", "{7F440734-A6DC-449C-9432-481573891674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BFF9F9-DF3B-4770-947C-2EC0E46A6C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BFF9F9-DF3B-4770-947C-2EC0E46A6C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BFF9F9-DF3B-4770-947C-2EC0E46A6C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BFF9F9-DF3B-4770-947C-2EC0E46A6C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07451006-06E4-4796-88CE-2E132306A64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07451006-06E4-4796-88CE-2E132306A64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07451006-06E4-4796-88CE-2E132306A64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07451006-06E4-4796-88CE-2E132306A64A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6628B8E8-3A19-41A6-9ADD-1DE0FA2A557C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6628B8E8-3A19-41A6-9ADD-1DE0FA2A557C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6628B8E8-3A19-41A6-9ADD-1DE0FA2A557C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6628B8E8-3A19-41A6-9ADD-1DE0FA2A557C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B5A46A-3414-49C2-8637-BB753BD0279C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B5A46A-3414-49C2-8637-BB753BD0279C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B5A46A-3414-49C2-8637-BB753BD0279C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B5A46A-3414-49C2-8637-BB753BD0279C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{381E5E0C-F0C5-4305-A28D-BDD30EAFBBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{381E5E0C-F0C5-4305-A28D-BDD30EAFBBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{381E5E0C-F0C5-4305-A28D-BDD30EAFBBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{381E5E0C-F0C5-4305-A28D-BDD30EAFBBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F440734-A6DC-449C-9432-481573891674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F440734-A6DC-449C-9432-481573891674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F440734-A6DC-449C-9432-481573891674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F440734-A6DC-449C-9432-481573891674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1223D65F-8818-4BA5-8448-988151E5862C}
+	EndGlobalSection
+EndGlobal
